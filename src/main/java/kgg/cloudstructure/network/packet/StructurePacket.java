@@ -7,7 +7,6 @@ import net.minecraft.network.protocol.game.ServerboundSetStructureBlockPacket;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.level.block.entity.StructureBlockEntity;
-import net.minecraft.world.level.block.state.BlockState;
 import net.minecraftforge.network.NetworkEvent;
 
 import javax.annotation.Nullable;
@@ -16,7 +15,6 @@ import java.util.function.Supplier;
 public abstract class StructurePacket extends Packet{
     protected ServerboundSetStructureBlockPacket packet;
     protected String userName;
-//    protected BlockPos pos;
     protected ResourceLocation structureName;
     protected String url;
     protected String token;
