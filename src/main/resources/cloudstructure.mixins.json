@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "kgg.cloudstructure.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cloudstructure.refmap.json",
+  "mixins": [
+    "StructureBlockEditScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

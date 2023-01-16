@@ -1,0 +1,18 @@
+{
+  "structure_block.upload": "upload",
+  "structure_block.upload_success": "upload success",
+  "structure_block.upload_failure": "structure upload failure: %s",
+
+  "structure_block.download": "download",
+  "structure_block.download_success": "download success",
+  "structure_block.download_failure": "structure download failure: %s",
+
+  "structure_block.hover.location": "structure: %s",
+
+  "structure_source.screen.title": "Edit Structure Source",
+  "structure_source.request_failed": "url request failed: %s",
+  "structure_source.url": "url",
+  "structure_source.user": "user",
+  "structure_source.passwd": "passwd",
+  "structure_source.edit_config": "config"
+}

@@ -1,0 +1,18 @@
+{
+  "structure_block.upload": "上传",
+  "structure_block.upload_success": "上传成功",
+  "structure_block.upload_failure": "结构上传失败: %s",
+
+  "structure_block.download": "下载",
+  "structure_block.download_success": "下载成功",
+  "structure_block.download_failure": "结构下载失败: %s",
+
+  "structure_block.hover.location": "结构: %s",
+
+  "structure_source.screen.title": "编辑结构源",
+  "structure_source.request_failed": "网站请求失败: %s",
+  "structure_source.url": "网址",
+  "structure_source.user": "用户",
+  "structure_source.passwd": "密码",
+  "structure_source.edit_config": "设置"
+}
